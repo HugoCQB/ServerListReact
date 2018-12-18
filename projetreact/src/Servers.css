@@ -1,0 +1,37 @@
+.statut {
+  padding-left: 130px !important;
+  font-size: 25px !important;
+  font-weight: bold !important;
+  text-decoration: underline;
+}
+
+.actions {
+  padding-left: 105px !important;
+  font-size: 25px !important;
+  font-weight: bold !important;
+  text-decoration: underline
+}
+
+.id {
+  font-size: 25px !important;
+  font-weight: bold !important;
+  text-decoration: underline;
+}
+
+.name {
+    font-size: 25px !important;
+    font-weight: bold !important;
+    text-decoration:underline;
+}
+
+.owner {
+  font-size: 25px !important;
+  font-weight: bold !important;
+  text-decoration: underline;
+}
+
+.projects {
+  font-size: 25px !important;
+  font-weight: bold !important;
+  text-decoration: underline;
+}
