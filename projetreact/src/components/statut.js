@@ -14,10 +14,6 @@ const styles = {
     margin: 10,
     backgroundColor: '#4caf50',
   },
-  purpleAvatar: {
-    margin: 10,
-    backgroundColor: '#b22a00',
-  },
 };
 
 function LetterAvatars(props) {
@@ -26,7 +22,6 @@ function LetterAvatars(props) {
     <Grid container justify="center" alignItems="center">
       <Avatar className={classes.avatar}></Avatar>
       <Avatar className={classes.orangeAvatar}></Avatar>
-      <Avatar className={classes.purpleAvatar}></Avatar>
     </Grid>
   );
 }
